@@ -1,0 +1,62 @@
+@font-face {
+ font-family: 'Roboto-Light';
+ src: local('Roboto Light'), 
+	local('Roboto-Light'), 
+	url('../fonts/Roboto-Light.ttf') format('truetype');
+ font-weight: 300;
+ font-style: normal;
+}
+
+
+p{
+	font-family: 'Roboto-Light';
+	font-size: 10pt;
+}
+span{font-family: 'Roboto-Light';}
+
+.b_m{font-family: 'Roboto-Light';}
+
+.logo{
+width: 140px;
+height: 60px;
+margin-top: 20px;
+}
+
+
+.task-one{
+width: 400px;
+height: 350px;
+margin-top: 20px;
+}
+
+.task-two{
+width: 400px;
+height: 400px;
+margin-top: 20px;
+}
+.task-free{
+width: 400px;
+height: 300px;
+margin-top: 20px;
+}
+.task-four{
+width: 400px;
+height: 400px;
+margin-top: 20px;
+}
+.task-five{
+width: 400px;
+height: 300px;
+margin-top: 20px;
+}
+
+.footer{
+width: 160px;
+height: 60px;
+margin-top: 40px;
+}
+
+.menu{
+width: 269px; 
+margin-top: 40px;
+}
